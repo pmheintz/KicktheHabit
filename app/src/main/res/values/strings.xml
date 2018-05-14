@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kick the Habit</string>
+    <string name="cigarette_header">Cigarette Info</string>
+    <string name="smoker_header">Smoker Info</string>
+    <string name="cigs_per_pack">Cigarettes per pack: </string>
+    <string name="price_per_pack">Price per pack: </string>
+    <string name="price_per_cig_title">Price per cigarette: </string>
+    <string name="gather_data_prompt">Allow app to gather smoking habit data for one week before starting your program?</string>
+    <string name="avg_cigs_title">Average number of cigarettes smoked daily: </string>
+    <string name="days_to_quit_title">Number of days you\'d like to quit in:</string>
+    <string name="avg_awake_title">Average number of hours you\'re awake in a day:</string>
+    <string name="reasons_button">Tap here to add/remove/edit reminders that will display if you deviate from your quitting plan.</string>
+    <string name="reasons_about">Quiting smoking is challenging. When you\'re tempted to deviate from your quiting plan, Kick the Habit will display a helpful reminder to encourage you to stay on track. You can configure up to 10 custom \"reasons to quit\" below which will be randomly displayed if you\'re going to smoke before you should.</string>
+    <string name="add_reason_btn">Add another reason</string>
+    <string name="discard_btn">Discard changes</string>
+    <string name="submit_btn">Submit changes</string>
+</resources>
